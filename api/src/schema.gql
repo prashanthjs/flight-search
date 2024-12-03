@@ -1,0 +1,29 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Flight {
+  airline: String!
+  arrivalCity: String!
+  arrivalTime: String!
+  co2Emission: Float!
+  createdAt: String!
+  departureCity: String!
+  departureTime: String!
+  distance: Float!
+  flightNumber: String!
+  id: Int!
+  price: Float!
+  totalCo2Emission: Float!
+  updatedAt: String!
+}
+
+input FlightSearchInput {
+  arrivalCity: String
+  departureCity: String
+  departureDate: String
+}
+
+type Query {
+  searchFlights(search: FlightSearchInput): [Flight!]!
+}
