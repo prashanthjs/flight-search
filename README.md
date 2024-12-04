@@ -124,7 +124,12 @@ Before you begin, make sure the following are installed:
    ```
    The backend server will be available at: **http://localhost:42000/graphql**
 
-8. Set up the frontend:
+8. Run unit tests:
+   ```sh
+   npm run test
+   ```
+
+9. Set up the frontend:
    ```sh
    cd ../flights-search/flights-search-frontend
    npm install
