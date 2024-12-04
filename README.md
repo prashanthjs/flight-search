@@ -169,6 +169,15 @@ Before you begin, make sure the following are installed:
 
 ---
 
+## Screenshots
+
+[<img src="./screenshots/frontend-1.png" width="300">](https://github.com/prashanthjs/flight-search/tree/main/screenshots/frontend-1.png)
+[<img src="./screenshots/frontend-2.png" width="300">](https://github.com/prashanthjs/flight-search/tree/main/screenshots/frontend-2.png)
+[<img src="./screenshots/frontend-3.png" width="300">](https://github.com/prashanthjs/flight-search/tree/main/screenshots/frontend-3.png)
+[<img src="./screenshots/server-playground.png" width="300">](https://github.com/prashanthjs/flight-search/tree/main/screenshots/server-playground.png)
+
+---
+
 ## Conclusion
 
 The Flight Search API is a feature-rich, modern solution designed for efficient flight searching and CO2 emissions calculations. With its robust architecture, performance optimizations, and easy deployment, it serves as a strong foundation for building scalable, real-world applications in the travel domain.  
